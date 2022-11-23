@@ -1,3 +1,5 @@
+import sys
+
 # Write a python code to print your name
 
 name = "Newton"
@@ -57,3 +59,12 @@ print(z)
 
 ch = input("enter a character")[0]
 print(ch)
+
+results = eval(input("ENter your values"))
+print(results)
+
+# Argument values
+m = argv[1]
+n = argv[2]
+o = m + n
+print(o)
