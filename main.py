@@ -50,9 +50,7 @@ num2 = 14
 
 # USer inputs
 
-x = input("Enter the value of x" )
-a = int(x)
-y = input("Enter the value of y")
-b = int(y)
-z = a + b
+x = int(input("Enter the value of x" ))
+y = int(input("Enter the value of y"))
+z = x + y
 print(z)
