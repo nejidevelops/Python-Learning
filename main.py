@@ -34,4 +34,5 @@ print(tuple_of_days.count("Monday"))
 # Set
 
 s = {23,14,13,26,7}
+# print(s.clear())
 print (s)
