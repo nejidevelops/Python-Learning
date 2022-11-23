@@ -16,3 +16,8 @@ age = 20
 
 print (name)
 print (age)
+
+
+# List variables
+better_days = ["Berlin", "Madrid", "Washington"]
+print (better_days)
