@@ -64,7 +64,7 @@ results = eval(input("ENter your values"))
 print(results)
 
 # Argument values
-m = argv[1]
-n = argv[2]
+m = sys.argv[1]
+n = sys.argv[2]
 o = m + n
 print(o)
