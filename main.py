@@ -20,4 +20,18 @@ print (age)
 
 # List variables
 better_days = ["Berlin", "Madrid", "Washington"]
+better_days[1] = "Oslo"
 print (better_days)
+
+
+# Print a tuple of variables
+
+tuple_of_days = ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")
+print (tuple_of_days[2])
+
+print(tuple_of_days.count("Monday"))
+
+# Set
+
+s = {23,14,13,26,7}
+print (s)
